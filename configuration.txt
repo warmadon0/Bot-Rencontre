@@ -1,0 +1,63 @@
+﻿/// CONFIG ///
+
+welcomechannel = 605772304294871056
+
+logschannel = 609110869783347200
+
+token = GIVETOKENHERE
+
+owner = 389529355719671808 // OWNER ID
+
+
+// This sets the prefix for the bot
+
+prefix = "t!"
+
+// You can make the game "Playing X", "Listening to X", or "Watching X"
+// default of "Playing"
+
+game = "Watching Rencontre - FR 『💕』"
+
+
+// Valid values: ONLINE IDLE DND INVISIBLE
+
+status = ONLINE
+
+songinstatus=true
+
+
+altprefix = "@mention"
+
+
+success = ":white_check_mark:"
+warning = ":warning:"
+error = ":interrobang:"
+loading = ":cookie:"
+searching = ":cookie:"
+
+help = tg
+
+npimages = true
+
+
+stayinchannel = false
+
+
+maxtime = 0
+
+
+playlistsfolder = "Playlists"
+
+updatealerts=true
+
+
+// Changing this changes the lyrics provider
+// Currently available providers: "A-Z Lyrics", "Genius", "MusicMatch"
+
+lyrics.default = "Genius"
+
+
+eval=false
+
+
+/// END OF CONFIG ///
